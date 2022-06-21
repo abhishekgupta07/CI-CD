@@ -6,5 +6,3 @@ def SayHello():
 
 if __name__ == '__main__':
         SayHello()
-if __name__ == '__main__':
-        print("hi")
