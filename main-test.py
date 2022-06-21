@@ -4,7 +4,7 @@ from main import Add
 
 def TestAdd():
     assert Add(2, 3) == 6
-    assert Add(5,5) == 10
+    assert Add(5,5) != 10
     print("Add Function works correctly")
 
 
