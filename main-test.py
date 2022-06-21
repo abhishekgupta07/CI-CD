@@ -6,7 +6,7 @@ def TestAdd():
     assert Add(5,5) == 25
     assert Add(10,5) == 50
     
-    assert Add(10,5) != 10
+    assert Add(10,5) == 10
 
 
     print("Add Function works correctly")
